@@ -8,7 +8,7 @@
 Este proyecto se centra en el análisis de datos de recursos humanos de una empresa para identificar factores que influyen en la retención de empleados y desarrollar estrategias de retención efectivas 
 
 <div align="center">
-  <img src="retencion.jpg" alt="Proceso de Análisis de Retención de Empleados">
+  <img src="retencion.png" alt="Proceso de Análisis de Retención de Empleados">
 </div>
 
 
