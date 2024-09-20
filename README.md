@@ -46,7 +46,7 @@ Este proyecto se centra en el análisis de datos de recursos humanos de una empr
 
 
 
-## 📝 Instrucciones para Utilizar el Archivo Jupyter Notebook
+## 📝 Instrucciones para obtener el proyecto
 
 1. Clonar el repositorio:
    ```bash
