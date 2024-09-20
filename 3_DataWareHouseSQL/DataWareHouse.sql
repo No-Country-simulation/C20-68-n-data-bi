@@ -1,12 +1,3 @@
--- Indices
-CREATE UNIQUE INDEX pk_Fact_Empleado ON "Fact_Empleado" USING btree ("EmpID")
-
--- Indices
-ALTER TABLE empleados
-ADD CONSTRAINT pk_Fact_Empleado PRIMARY KEY ("EmpID");
-
-
-
 CREATE TABLE dim_empleado (
     "EmpID" INT PRIMARY KEY,        -- Clave primaria
     "FirstName" VARCHAR(100),
@@ -30,8 +21,6 @@ CREATE TABLE dim_empleado (
     "MaritalDesc" VARCHAR(50)
 );
 
-SELECT * FROM dim_empleado WHERE "EmpID"=3427
-
 CREATE TABLE fact_empleados (
     "ID_Fact_Empleado" SERIAL PRIMARY KEY,  -- Llave subrogada
     "EmpID" INT NOT NULL,             -- Llave foránea a Dim_Empleado
@@ -48,8 +37,7 @@ CREATE TABLE fact_empleados (
 
 CREATE TABLE dim_training_and_development (
     "TrainingProgramID" SERIAL PRIMARY KEY,      -- Identificador único del programa de entrenamiento
-    "Training Program Name" VARCHAR(255) NOT NULL -- Nombre del programa de entrenamiento
-
+    "Training Program Name" VARCHAR(255) NOT NULL -- Nombre del programa de entrenamient
 );
 
 
