@@ -21,9 +21,10 @@ Este proyecto se centra en el análisis de datos de recursos humanos de una empr
 
 
 ## 👥 Colaboradores
-- **Alejandra Moreno Vallejo** - Data Engineer
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandra-moreno-vallejo-4b1926138/)
 
+| Integrantes | Rol | Contacto
+|------------|------------|------------|
+| [Hernán Hernández](https://github.com/alejamorenovallejo) | ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-black?style=for-the-badge&color=%2384b6f4) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejamorenovallejo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-moreno-vallejo-4b1926138/)
 
 ## 💻 Tecnologías
 - Python (Proceso de ETL)
