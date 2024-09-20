@@ -29,9 +29,15 @@ Este proyecto se centra en el análisis de datos de recursos humanos de una empr
 - Python (Proceso de ETL)
   - Pandas 
   - SQLAlchemy 
-- Postgress SQL (Para Nuestro DataWareHouse)
+- PostgreSQL (Para Nuestro DataWareHouse)
   - La base de datos fue desplegada en Render (https://dashboard.render.com/)
 - Power BI (Dashboard)
+
+## 🤖 Estructura del proyecto 
+* 1_Source: Contiene los datos utilizados en el proyecto.
+* 2_ETL: Contiene los archivos pyhton donde se realiza proceso de extraccion, limpieza y carga al datawarehouse realizado para el proyecto que se encuentra publicado en render en una base de datos postgresql
+* 3_DataWareHouse: Contiene la estructura del DatawareHouse en sql.
+* 4_DashboardPowerBI : Contiene el dashboard correspondiente a nuestro análisis
 
 <div align="center">
   <img src="No_Country.jpg" alt="No Country">
