@@ -7,6 +7,12 @@
 ## 📄 Descripción
 Este proyecto se centra en el análisis de datos de recursos humanos de una empresa para identificar factores que influyen en la retención de empleados y desarrollar estrategias de retención efectivas 
 
+ Realizar este tipo de análisis se puede identificar patrones y factores que influyen en la retención de empleados en una empresa. Una vez identificados estos factores, se pueden desarrollar estrategias como:
+ - Programas de desarrollo para empleados con puntajes de desempeño bajos.
+ - Beneficios y políticas de flexibilidad para empleados con bajas puntuaciones en satisfacción o equilibrio vida/trabajo.
+ - Planes de carrera para empleados más jóvenes para aumentar su permanencia en la empresa.
+ - Políticas de contratación más enfocadas en tipos de empleo que garanticen una mayor retención a largo plazo.
+
 <div align="center">
   <img src="retencion.png" alt="Proceso de Análisis de Retención de Empleados">
 </div>
