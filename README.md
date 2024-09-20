@@ -10,6 +10,10 @@ Este proyecto se centra en el análisis de datos de recursos humanos de una empr
 <div align="center">
   <img src="retencion.png" alt="Proceso de Análisis de Retención de Empleados">
 </div>
+- DataWareHouse Modelo Estrella
+<div align="center">
+  <img src="modeloestrella.png" alt="Modelo Estrella">
+</div>
 
 
 ## 👥 Team leader 
