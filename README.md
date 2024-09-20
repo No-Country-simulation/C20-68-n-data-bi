@@ -26,6 +26,7 @@ Este proyecto se centra en el análisis de datos de recursos humanos de una empr
   - Pandas 
   - SQLAlchemy 
 - Postgress SQL (Para Nuestro DataWareHouse)
+  - La base de datos fue desplegada en Render (https://dashboard.render.com/)
 - Power BI (Dashboard)
 
 <div align="center">
