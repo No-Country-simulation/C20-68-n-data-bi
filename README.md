@@ -17,7 +17,7 @@ Este proyecto se centra en el análisis de datos de recursos humanos de una empr
 
 
 ## 👥 Colaboradores
-- **Alejandra Moreno Vallejo** - Data Engenieer
+- **Alejandra Moreno Vallejo** - Data Engineer
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandra-moreno-vallejo-4b1926138/)
 
 
